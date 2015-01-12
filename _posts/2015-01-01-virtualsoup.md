@@ -1,8 +1,11 @@
 ---
 layout:     post
 title:      Virtual Soup
-date:       2015-01-01 13:25:00
-summary:    Virtual Soup!
+date:       2015-01-01 12:00:00
+summary:
+    A few months ago, my fiancée was talking on a video call with a friend of ours who was sick.
+    She made a joke about trying to pass him a bowl of soup through the screen,
+    and in doing so planted the seed for a new design project.
 categories: design
 ---
 
